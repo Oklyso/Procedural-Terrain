@@ -1,11 +1,11 @@
-# GameJam 3
 # Procedural Terrain
-
+Procedural 2D Terrain generator in Unity using C#.
 
 ---------------------------------------------
 
+
 ## How to use:
-### Open in unity, add a certain number of heights to a heightmap, set the heights and colors and watch terrain be generated.
+Open in unity, add a certain number of heights to a heightmap, set the heights and colors and watch terrain be generated.
+*Add values to [Heights] in the heightmap.
+*Set colors as you prefer and play around with settings.
 
-
-## Had to re-create the git repo, because I messed up adding the function to switch between Noise-mode and Color-mode.
